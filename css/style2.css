@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+.row_content {
+	padding: 40px 0px;
+	margin: 0px auto;
+	border-bottom: 1px solid lightgray;
+}
+
+footer{
+	background-color: #D1C4E9;
+	padding: 20px 0px;
+	box-sizing: border-box;
+}
+.jumbotron {
+	padding: 70px 30px;
+	margin: 0px auto;
+	background: #9575CD;
+	color: floralwhite;
+}
